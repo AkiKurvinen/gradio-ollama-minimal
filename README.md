@@ -1,10 +1,10 @@
 # Ollama test
 
 ## Prepare Ollama and Llama
-1. Download and install Ollama for Windows
+1. Download and install Ollama for Windows  
 https://ollama.com/download
 
-2. Open command prompt and check models available
+2. Open command prompt and check models available  
 ```
 ollama list
 ```
@@ -23,7 +23,7 @@ Choose "Chat with model"
 
 ## Chat with model via Gradio UI
 
-1. Prepare app project
+1. Prepare app project  
 Create folder for project e.g. chat-app  
 Open folder in VS Code  
 
