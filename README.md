@@ -4,7 +4,7 @@
 1. Download and install Ollama for Windows
 https://ollama.com/download
 
-2. Open command prompt and check models avaiable
+2. Open command prompt and check models available
 ```
 ollama list
 ```
